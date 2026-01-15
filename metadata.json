@@ -1,0 +1,8 @@
+{
+  "name": "Shopping São José - Premium Experience",
+  "description": "A high-end, modern reimagining of a shopping mall experience with real-time AI assistance, dynamic store directory, and cinema listings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
